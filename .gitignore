@@ -1,5 +1,5 @@
 # Dependency directories
-mnode_modules/
+node_modules/
 
 # Logs
 logs
